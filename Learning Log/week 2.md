@@ -1,4 +1,4 @@
-# WEEK 2 
+# Week 2
 
 In this entry I will give a short overview of the learning process from last week 
 

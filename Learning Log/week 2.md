@@ -23,7 +23,9 @@ It kinda makes sense and it seems logical but one does not fully get it until yo
 
 Alternating this, using what we have previously seen, inserting the delay and adding the different numbers to produce the emergence of each colour was interesting
 
-In general the whole learning process has been extremely satisfying and I am willing to keep understanding this fantastic world of computing and how we can produce real life changes through the interrelationship between the program and the ARDUNO set :) 
+In general the whole learning process has been extremely satisfying and I am willing to keep understanding this fantastic world of computing and how we can produce real life changes through the interrelationship between the program and the ARDUNO set
+
+Here is a picture of the first task with the power supply :) 
 
 <img width="2160" height="3840" alt="image" src="https://github.com/user-attachments/assets/b99d6332-bb77-4e40-ac44-0f5f07846e25" />
 
